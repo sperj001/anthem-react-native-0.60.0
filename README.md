@@ -1,0 +1,1 @@
+# anthem-react-native-0.60.0
